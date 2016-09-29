@@ -4,7 +4,7 @@ contains simple function for test object, string, ...
 example :
 
 <pre>
-<code>
+<code class="language-javascript">
 _is.object({});
 _is.function(console.log);
 </code>
